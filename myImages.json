@@ -1,0 +1,65 @@
+{
+    "images": [
+        {
+            "imgPath": "img/steelers/big ben.jpg",
+            "imgLocation": "M&T Bank Stadium",
+            "description": "Big Ben Claims the Victory against the Ravens",
+            "date": "11/02/2014"
+        },
+        {
+            "imgPath": "img/steelers/asmith.avif",
+            "imgLocation": "Acrisure Stadium",
+            "description": "Arthur Smith Gets ready to gear up against the Vikings",
+            "date": "12/24/2025"
+        },
+        {
+            "imgPath": "img/steelers/captains.jpg",
+            "imgLocation": "Saint Vincent College",
+            "description": "2024 Team Photo Day",
+            "date": "09/18/2023"
+        },
+        {
+            "imgPath": "img/steelers/dkmetcalf.avif",
+            "imgLocation": "Acrisure Stadium",
+            "description": "Dk Metcalf makes an amazing catch against the seahawks",
+            "date": "09/14/2025"
+        },
+        {
+            "imgPath": "img/steelers/kGainwell.jpg",
+            "imgLocation": "Acrisure Stadium",
+            "description": "Kenneth Gainwell walks into the endzone against the Bengals",
+            "date": "11/16/2025"
+        },
+        {
+            "imgPath": "img/steelers/oline.avif",
+            "imgLocation": "M&T Bank Stadium",
+            "description": "Steelers O-Line ready to block against the Ravens",
+            "date": "12/07/2025"
+        },
+        {
+            "imgPath": "img/steelers/tomlin.avif",
+            "imgLocation": "Acrisure Stadium",
+            "description": "Mike Tomlin watching his team walk out of the tunnel",
+            "date": "01/07/2016"
+        },
+        {
+            "imgPath": "img/steelers/steelerscele.jpg",
+            "imgLocation": "Ireland",
+            "description": "Steelers celebrate the touchdown at the Ireland Game.",
+            "date": "01/08/2016"
+        },
+        {
+            "imgPath": "img/steelers/inside-the-steelers.jpg",
+            "imgLocation": "Bank of America Stadium",
+            "description": "Steelers getting fired up at pregrame against the Panthers",
+            "date": "11/08/2018"
+        },
+        {
+            "imgPath": "img/steelers/herbig.jpg",
+            "imgLocation": "Dublin,Ireland",
+            "description": "Herbig celebrates with spillane after the TFL",
+            "date": "09/28/2025"
+        }
+       
+  ]
+}
